@@ -110,7 +110,7 @@ General styling End */
     color: #fff;
     cursor: pointer;
 }
-.menu_icons{
+#menu_icon{
     display: none;
 } 
 .nav_items{
@@ -441,11 +441,10 @@ Contact Styling Ends */
         padding: 10px 3px;
         font-size: 1.3rem; 
     }
-    hr{
-        display: none;
+    #menu_icon{
+        display: block;
     }
     .menu_icons{
-        display: block;
         z-index: 3;
         margin-right: 30px;
     } 

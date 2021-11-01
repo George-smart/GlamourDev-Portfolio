@@ -294,6 +294,7 @@ Portfolio styling End */
 ===================== */
 #contact_section{
     width: 90%;
+    height: 100%;
     margin: 50px auto;
 }
 #contact_section p{
